@@ -1,5 +1,4 @@
 # qk-vue
-
 ## Project setup
 ```
 npm install
